@@ -134,7 +134,7 @@ h5 {
 	/*z-index: 0;*/
 /*	position: fixed;
 */	margin: 0 auto;
-	max-width: 1200px;
+/*	max-width: 1200px;*/
 	min-width: 600px;
 
 }
@@ -174,7 +174,7 @@ footer p{
 	color: #333;
 	text-align: center;
 	bottom: 0;
-	max-width: 1200px;
+/*	max-width: 1200px;*/
 	min-width: 600px;
 	clear: both;
 
